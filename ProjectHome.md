@@ -1,0 +1,4 @@
+QB64 is a multiplatform, 100% QBASIC/QB4.5 compatible programming language with access to modern features such as TCP/IP, graphics loading(many formats supported) & transformations, sound(MP3,MIDI,WAV and many more), devices(joysticks), screen capture & macro-like output, TTF fonts, UNICODE & IME input, clipboard access, etc. The primary goal of QB64 is to create a programming language which is 100% compatible with QBASIC/QB4.5 (including using when required an emulated 16-bit conventional memory block with 286[mode](real.md) CPU instructions and common BIOS calls). QB64 includes an IDE with looks and interacts (almost) identically to the QBASIC IDE. QB64 runs in and creates native binary executables for Linux, MacOSX & Windows.
+
+Further details can be found in this FAQ:
+http://qb64.net/wiki/index.php?title=QB64_FAQ
